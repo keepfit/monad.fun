@@ -1,6 +1,6 @@
 baseURL: https://monad.fun
 languageCode: en-us
-title: Personal website and blog
+title: monad.fun
 theme: hugo-refresh
 # theme: ../..
 
@@ -95,7 +95,7 @@ params:
     # option to specify your contact email in the footer
     email: zqhcfj@gmail.com
     # option to specify your linkedin profile in the footer
-    github: https://github.com/keepfit
+    github: keepfit
     # option to specify your facebook account in the footer; **uncomment** the below line to show in footer
     # facebook: your.username
     # option to specify your github account in the footer; **uncomment** the below line to show in footer
