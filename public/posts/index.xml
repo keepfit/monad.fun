@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on monad.fun</title>
+    <link>https://monad.fun/posts/</link>
+    <description>Recent content in Posts on monad.fun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 28 Mar 2020 11:31:07 +0800</lastBuildDate>
+    
+	<atom:link href="https://monad.fun/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Haskell Programming Language</title>
+      <link>https://monad.fun/the-haskell-programming-language/</link>
+      <pubDate>Sat, 28 Mar 2020 11:31:07 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-haskell-programming-language/</guid>
+      <description>The Haskell Programming Language</description>
+    </item>
+    
+    <item>
+      <title>The Dart Programming Language</title>
+      <link>https://monad.fun/the-dart-programming-language/</link>
+      <pubDate>Sat, 28 Mar 2020 11:28:50 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-dart-programming-language/</guid>
+      <description>The Dart Programming Language</description>
+    </item>
+    
+    <item>
+      <title>The Kotlin Programming Language</title>
+      <link>https://monad.fun/the-kotlin-programming-language/</link>
+      <pubDate>Sat, 28 Mar 2020 11:28:15 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-kotlin-programming-language/</guid>
+      <description>The Kotlin Programming Language</description>
+    </item>
+    
+    <item>
+      <title>The Python Programming Language</title>
+      <link>https://monad.fun/the-python-programming-language/</link>
+      <pubDate>Sat, 28 Mar 2020 11:28:04 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-python-programming-language/</guid>
+      <description>The Python Programming Language</description>
+    </item>
+    
+    <item>
+      <title>The C&#43;&#43; Programming Language</title>
+      <link>https://monad.fun/the-c-programming-language/</link>
+      <pubDate>Sat, 28 Mar 2020 11:27:50 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-c-programming-language/</guid>
+      <description>The C++ Programming Language</description>
+    </item>
+    
+    <item>
+      <title>The C Programming Language</title>
+      <link>https://monad.fun/the-c-programming-language/</link>
+      <pubDate>Sat, 28 Mar 2020 11:27:41 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-c-programming-language/</guid>
+      <description>The C Programming Language</description>
+    </item>
+    
+    <item>
+      <title>The Go Programming Language</title>
+      <link>https://monad.fun/the-go-programming-language/</link>
+      <pubDate>Sat, 28 Mar 2020 11:27:31 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-go-programming-language/</guid>
+      <description>The Go Programming Language</description>
+    </item>
+    
+    <item>
+      <title>The Scala Programming Language</title>
+      <link>https://monad.fun/the-scala-programming-language/</link>
+      <pubDate>Sat, 28 Mar 2020 11:27:22 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-scala-programming-language/</guid>
+      <description>The Scala Programming Language</description>
+    </item>
+    
+    <item>
+      <title>The Books I Read</title>
+      <link>https://monad.fun/the-books-i-read/</link>
+      <pubDate>Sat, 28 Mar 2020 11:20:42 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-books-i-read/</guid>
+      <description>CSAPP SICP</description>
+    </item>
+    
+    <item>
+      <title>The-Java-Programming-Language</title>
+      <link>https://monad.fun/the-java-programming-language/</link>
+      <pubDate>Sat, 28 Mar 2020 11:20:42 +0830</pubDate>
+      
+      <guid>https://monad.fun/the-java-programming-language/</guid>
+      <description>CSAPP SICP</description>
+    </item>
+    
+    <item>
+      <title>All I Have to Learn</title>
+      <link>https://monad.fun/all-i-have-to-learn/</link>
+      <pubDate>Sat, 28 Mar 2020 10:36:50 +0800</pubDate>
+      
+      <guid>https://monad.fun/all-i-have-to-learn/</guid>
+      <description>知识体系 读书 编程语言 Java Java基础/泛型/集合/注解/反射/并发 Java开源框架 JVM Kotlin Go Scala C/C++ JS Python 系统架构设计 设计模式 分布式/微服务/云原生/无</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book on monad.fun</title>
+    <link>https://monad.fun/categories/book/</link>
+    <description>Recent content in book on monad.fun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 28 Mar 2020 11:20:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://monad.fun/categories/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Books I Read</title>
+      <link>https://monad.fun/the-books-i-read/</link>
+      <pubDate>Sat, 28 Mar 2020 11:20:42 +0800</pubDate>
+      
+      <guid>https://monad.fun/the-books-i-read/</guid>
+      <description>CSAPP SICP</description>
+    </item>
+    
+  </channel>
+</rss>

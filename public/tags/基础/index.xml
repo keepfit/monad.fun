@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>基础 on monad.fun</title>
+    <link>https://monad.fun/tags/%E5%9F%BA%E7%A1%80/</link>
+    <description>Recent content in 基础 on monad.fun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 28 Mar 2020 10:36:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://monad.fun/tags/%E5%9F%BA%E7%A1%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All I Have to Learn</title>
+      <link>https://monad.fun/all-i-have-to-learn/</link>
+      <pubDate>Sat, 28 Mar 2020 10:36:50 +0800</pubDate>
+      
+      <guid>https://monad.fun/all-i-have-to-learn/</guid>
+      <description>知识体系 读书 编程语言 Java Java基础/泛型/集合/注解/反射/并发 Java开源框架 JVM Kotlin Go Scala C/C++ JS Python 系统架构设计 设计模式 分布式/微服务/云原生/无</description>
+    </item>
+    
+  </channel>
+</rss>
